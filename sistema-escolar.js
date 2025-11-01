@@ -15,8 +15,8 @@ import {
 } from "https://www.gstatic.com/firebasejs/12.4.0/firebase-firestore.js";
 
 // 3️⃣ Crear referencias a nuestras colecciones (como "tablas" en SQL)
-const alumnosCollection = collection(db, "alumnos"); // Colección de alumnos
-const materiasCollection = collection(db, "materias"); // Colección de materias
+const alumnosCollection = collection(db, "Alumnos"); // Colección de alumnos
+const materiasCollection = collection(db, "materia"); // Colección de materias
 const notasCollection = collection(db, "notas"); // Colección de notas
 
 // ============================================

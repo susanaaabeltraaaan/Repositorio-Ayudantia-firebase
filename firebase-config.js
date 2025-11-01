@@ -11,13 +11,13 @@ import { getFirestore } from "https://www.gstatic.com/firebasejs/12.4.0/firebase
 
 // 2️⃣ Tu configuración de Firebase (obtenida desde Firebase Console)
 const firebaseConfig = {
-  apiKey: "AIzaSyAOGkefWzvmcTLI5W6azJ0oNHrwhHC_vlE",
-  authDomain: "fir-fireba-27ec7.firebaseapp.com",
-  projectId: "fir-fireba-27ec7",
-  storageBucket: "fir-fireba-27ec7.firebasestorage.app",
-  messagingSenderId: "673091657251",
-  appId: "1:673091657251:web:bd90499ad25198b2e1db96",
-  measurementId: "G-HY138MZQXG",
+  apiKey: "AIzaSyCm7UzH0R50PpFRlOelFCowxnJW5KKzibg",
+  authDomain: "mi-primer-firebase-24210.firebaseapp.com",
+  projectId: "mi-primer-firebase-24210",
+  storageBucket: "mi-primer-firebase-24210.firebasestorage.app",
+  messagingSenderId: "258928858575",
+  appId: "1:258928858575:web:c801902d23cbf2134beeba",
+  measurementId: "G-RVEYTMBR03",
 };
 
 // 3️⃣ Inicializar Firebase con tu configuración
